@@ -1,4 +1,4 @@
-Hệ thống cuộn trang
+Hỗ trợ cuộn trang
 Main – Bảng điều khiển cuộn chính
 Nút cuộn lên ▲ và xuống ▼.
 Điều chỉnh tốc độ từ cấp 1–10.
