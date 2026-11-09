@@ -23,7 +23,6 @@ Khóa vị trí, tránh di chuyển nhầm.
 Ẩn Main nhưng vẫn giữ cụm nút cuộn mini.
 Ẩn/hiện toàn bộ các bảng điều khiển.
 Tự điều chỉnh vị trí khi thay đổi độ phân giải.
-Các cửa sổ luôn nằm trên cùng.
 
 Hệ thống 99click
 Tối đa 99 điểm click
@@ -47,8 +46,8 @@ Thay đổi màu chữ và màu nền.
 Tự động điều chỉnh tương phản màu theo nền màn hình.
 
 Hai chế độ click:
-Bấm 1 lần Click chuột trái một lần rồi nhả
-Giữ chuột Bấm hotkey để giữ chuột, bấm lại để thả
+Bấm 1 lần	Click chuột trái một lần rồi nhả
+Giữ chuột	Bấm hotkey để giữ chuột, bấm lại để thả
 Ngoài ra, chế độ click một lần có tùy chọn khôi phục con trỏ về vị trí ban đầu.
 
 ClickLock – Giữ và kéo chuột
@@ -98,14 +97,13 @@ Có menu điều khiển ở khay hệ thống (System Tray).
 
 Thống kê toàn bộ phím tắt
 Phím tắt điều khiển chương trình
-Ctrl + Alt + B Ẩn/hiện toàn bộ các bảng và nút điều khiển
-Ctrl + Alt + H Bật/tắt hotkey 99click
-Ctrl + Alt + T Hiện/ẩn tọa độ chuột
-Ctrl + Alt + Shift + O Hiện/ẩn toàn bộ nhãn hotkey
-Ctrl + Alt + Shift + C Bật/tắt tự động tương phản màu
-Alt + B Tắt riêng 99click
-Ctrl + Alt + L Bật/tắt ClickLock
-Ctrl + Alt + K Bật/tắt hiển thị phím Ctrl/Alt/Shift/Win
-Ctrl + Alt + Click chuột trái Lấy văn bản dưới con trỏ
+Ctrl + Alt + B	Ẩn/hiện toàn bộ các bảng và nút điều khiển
+Ctrl + Alt + H	Bật/tắt hotkey 99click
+Ctrl + Alt + T	Hiện/ẩn tọa độ chuột
+Ctrl + Alt + Shift + O	Hiện/ẩn toàn bộ nhãn hotkey
+Ctrl + Alt + Shift + C	Bật/tắt tự động tương phản màu
+Alt + B	Tắt riêng 99click
+Ctrl + Alt + L	Bật/tắt ClickLock
+Ctrl + Alt + K	Bật/tắt hiển thị phím Ctrl/Alt/Shift/Win
 
 Lưu ý: Các phím Ctrl + Alt + H, Ctrl + Alt + T, Ctrl + Alt + Shift + O, Ctrl + Alt + Shift + C và Alt + B được giới hạn theo trạng thái 99click đang bật.
