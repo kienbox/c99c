@@ -47,8 +47,8 @@ Thay đổi màu chữ và màu nền.
 Tự động điều chỉnh tương phản màu theo nền màn hình.
 
 Hai chế độ click:
-Bấm 1 lần	Click chuột trái một lần rồi nhả
-Giữ chuột	Bấm hotkey để giữ chuột, bấm lại để thả
+Bấm 1 lần Click chuột trái một lần rồi nhả
+Giữ chuột Bấm hotkey để giữ chuột, bấm lại để thả
 Ngoài ra, chế độ click một lần có tùy chọn khôi phục con trỏ về vị trí ban đầu.
 
 ClickLock – Giữ và kéo chuột
@@ -94,20 +94,18 @@ Tự khởi động cùng Windows.
 Lưu cấu hình vào file c99c.ini.
 Lưu tọa độ, hotkey và profile riêng.
 Tự chạy lại với quyền Administrator nếu được chấp thuận.
-Tự giữ các cửa sổ luôn trên cùng.
 Có menu điều khiển ở khay hệ thống (System Tray).
 
 Thống kê toàn bộ phím tắt
 Phím tắt điều khiển chương trình
-Ctrl + Alt + B	Ẩn/hiện toàn bộ các bảng và nút điều khiển
-Ctrl + Alt + H	Bật/tắt hotkey 99click
-Ctrl + Alt + T	Hiện/ẩn tọa độ chuột
-Ctrl + Alt + Shift + O	Hiện/ẩn toàn bộ nhãn hotkey
-Ctrl + Alt + Shift + C	Bật/tắt tự động tương phản màu
-Alt + B	Tắt riêng 99click
-Ctrl + Alt + L	Bật/tắt ClickLock
-Ctrl + Alt + K	Bật/tắt hiển thị phím Ctrl/Alt/Shift/Win
-Ctrl + Alt + Click chuột trái	Lấy văn bản dưới con trỏ
+Ctrl + Alt + B Ẩn/hiện toàn bộ các bảng và nút điều khiển
+Ctrl + Alt + H Bật/tắt hotkey 99click
+Ctrl + Alt + T Hiện/ẩn tọa độ chuột
+Ctrl + Alt + Shift + O Hiện/ẩn toàn bộ nhãn hotkey
+Ctrl + Alt + Shift + C Bật/tắt tự động tương phản màu
+Alt + B Tắt riêng 99click
+Ctrl + Alt + L Bật/tắt ClickLock
+Ctrl + Alt + K Bật/tắt hiển thị phím Ctrl/Alt/Shift/Win
+Ctrl + Alt + Click chuột trái Lấy văn bản dưới con trỏ
 
 Lưu ý: Các phím Ctrl + Alt + H, Ctrl + Alt + T, Ctrl + Alt + Shift + O, Ctrl + Alt + Shift + C và Alt + B được giới hạn theo trạng thái 99click đang bật.
-
