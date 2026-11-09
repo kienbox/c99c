@@ -1,4 +1,4 @@
-Hỗ trợ cuộn trang
+Hỗ trợ cuộn trang và click chuột 
 Main – Bảng điều khiển cuộn chính
 Nút cuộn lên ▲ và xuống ▼.
 Điều chỉnh tốc độ từ cấp 1–10.
@@ -86,16 +86,8 @@ Xóa lối tắt.
 Tự đóng bảng sau khi mở nếu được thiết lập.
 Thay đổi kích thước và vị trí bảng.
 
-Lấy văn bản dưới con trỏ chuột
-Lấy văn bản từ hộp thông báo.
-Thử nhiều thuộc tính đọc văn bản khác nhau.
-Sao chép nội dung vào Clipboard.
-Hiển thị kết quả trong một bảng riêng.
-Bảng kết quả có thể thay đổi kích thước.
-
 Những tiện ích khác
 Hiển thị tọa độ chuột theo thời gian thực.
-Hiển thị tooltip khi rê chuột lên các nút.
 Kéo cửa sổ bằng chuột trái hoặc chuột phải.
 ClickLock kéo cửa sổ không cần giữ chuột.
 Tự khởi động cùng Windows.
